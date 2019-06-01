@@ -1,7 +1,7 @@
 # Readme
 ## How to initialize the visuals
 ### 1) Start a MongoDB server
-Run Jupyter Notebook
+Run Jupyter Notebook.
 The program will create a database called electiondata
 Check to make sure there are no conflicts before running
 ### 2) Run app.py
